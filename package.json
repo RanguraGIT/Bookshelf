@@ -1,0 +1,24 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "This project create for Certificate from dicoding.id",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanguraGIT/Bookshelf.git"
+  },
+  "author": "Agung Maulana Syahputra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanguraGIT/Bookshelf/issues"
+  },
+  "homepage": "https://github.com/RanguraGIT/Bookshelf#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.0.1"
+  }
+}
